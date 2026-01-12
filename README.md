@@ -1,9 +1,13 @@
 # MossFrpGUI
 
-一款基于 **Flutter** 和 **Fluent UI** 设计的轻量级 Windows 桌面穿透管理客户端。该软件旨在为用户提供简洁、美观且高效的内网穿透管理体验，完全适配 Windows 11 的视觉风格。
+一款基于 **Flutter** 和 **Fluent UI** 设计的轻量级 专用于MossFrp 的 Windows 桌面客户端，适配 Windows 11 的视觉风格
 
 
+## **运行要求**: Windows 10 及以上版本
 
+**温馨提示**: 该软件对于 `3**安全卫士` 、 `2***安全卫士` 、 `金***` 、 `Windows Defender` 等杀毒软件建立了单向合作关系，如果遇到报毒添加白名单或者关闭杀毒软件即可
+
+~以下为ai生成~
 ## ✨ 功能特性
 
 - **原生视觉体验**：采用 Windows 11 Fluent Design 设计语言，默认开启深色模式，支持 Mica/Acrylic 毛玻璃特效。
