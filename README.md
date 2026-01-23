@@ -1,4 +1,4 @@
-# MoboxGUI (原MossFrpGUI) 请等待项目重构
+# MoboxGUI (原MossFrpGUI) 由于api逻辑发生变化 请等待项目重构
 ---
 ---
 ------
